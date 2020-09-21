@@ -18,7 +18,7 @@ source=cv2.VideoCapture(0)
 #print(labels)
 #print(label_dict)
 
-labels_dict={0:'Achini',1:'Anushanga',2:'Chamara',3:'Dilini',4:'Gayan',5:'Kalani',6:'Malki',7:'Mayanthi',8:'Navodika',9:'Praveen',10:'Rumali',11:'Sachith',12:'Sanduni',13:'Sarangi',14:'Shavindya',15:'Sumedha'}
+labels_dict={0:'BradPitt',1:'LeoDecap'}
 #color_dict={0:(0,255,0)}
 
 def MarkAttendance(name):
